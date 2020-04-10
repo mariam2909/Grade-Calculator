@@ -1,0 +1,20 @@
+body, html {
+ margin: 0;
+}
+ 
+#course {
+ background-color: black;
+}
+ 
+#grades {
+ background-color:pink;
+}
+ 
+#Percents
+{
+  color: black;
+  font-weight: times
+}
+
+
+   
